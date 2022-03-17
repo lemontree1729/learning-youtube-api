@@ -1,2 +1,4 @@
 apikey.txt
 mongodb.txt
+__pycache__/**
+.ipynb_checkpoints/**
